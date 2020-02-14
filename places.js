@@ -57,6 +57,41 @@ function staticLoadPlaces() {
                 lng: 2.155997,
             }
         },
+        {
+            name: 'casa_01',
+            location: {
+                lat: 41.411788,
+                lng: 2.198922,
+            }
+        },
+        {
+            name: 'casa_02',
+            location: {
+                lat: 41.411782,
+                lng: 2.198879,
+            }
+        },
+        {
+            name: 'casa_03',
+            location: {
+                lat: 41.411927,
+                lng: 2.198930,
+            }
+        },
+        {
+            name: 'casa_04',
+            location: {
+                lat: 41.411915,
+                lng: 2.199032,
+            }
+        },
+        {
+            name: 'casa_02',
+            location: {
+                lat: 41.411955,
+                lng: 2.198895,
+            }
+        },
     ];
 }
 
