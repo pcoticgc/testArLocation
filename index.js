@@ -37,24 +37,24 @@ function staticLoadPlaces() {
         {
             name: "CVS",
             location: {
-                lat: , // change here latitude if using static data
-                lng: , // change here longitude if using static data
+                lat: 41.369889, // change here latitude if using static data
+                lng: 2.155956, // change here longitude if using static data
             }
         },
         
         {
             name: 'Blink Fitness',
             location: {
-                lat: ,
-                lng: ,
+                lat: 41.369895,
+                lng: 2.155935,
             }
         },
 
         {
             name: 'Bus',
             location: {
-                lat: ,
-                lng: ,
+                lat: 41.369848,
+                lng: 2.155997,
             }
         },
     ];
